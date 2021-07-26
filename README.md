@@ -1,6 +1,6 @@
 # Javascript exercises
 
-a simple repository of exercises, katas and any topic related to javascript.
+a simple repository of exercises and any topic related to javascript.
 
 ## License
 
